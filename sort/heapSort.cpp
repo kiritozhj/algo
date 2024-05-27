@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 #include <vector>
 #include <stack>
@@ -48,4 +47,3 @@ int main()
     for(int i:arr)
         cout<<i<<" ";
 }
-```

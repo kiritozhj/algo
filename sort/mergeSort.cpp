@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 #include <vector>
 #include <stack>
@@ -57,4 +56,3 @@ void mergeSortBU(vector<int>& arr) {
         }
     }
 }
-```

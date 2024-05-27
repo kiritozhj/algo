@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 #include <vector>
 #include <stack>
@@ -105,4 +104,3 @@ void quickSort(vector<int> &arr)
 //         quickSort(arr, pi + 1, high); // 排序右半部分
 //     }
 // }
-```
