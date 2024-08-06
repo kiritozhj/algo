@@ -1,17 +1,23 @@
 # 算法
   
 ## 查找  
-[二分查找](search/二分查找.md)  
+[二分查找](查找/二分查找.md)  
 
 ## 排序  
-[冒泡排序](sort/bubbleSort.cpp)  
-[快速排序](sort/quickSort.cpp)  
-[归并排序](sort/mergeSort.cpp)  
-[堆排序](sort/heapSort.cpp)  
+[冒泡排序](排序/bubbleSort.cpp)  
+[快速排序](排序/quickSort.cpp)  
+[归并排序](排序/mergeSort.cpp)  
+[堆排序](排序/heapSort.cpp)  
 
 ## 动态规划  
-[01背包](dp/01背包.md)  
-[完全背包](dp/完全背包.md)  
+[01背包](动态规划/01背包.md)  
+[完全背包](动态规划/完全背包.md)  
 
 ## 其他
 [其他](其他.md)
+
+
+# 数据结构
+
+## 前缀和
+[基础](前缀和/基础.md)  
